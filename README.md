@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science Student @ Universitat de Barcelona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xvxnoah&label=Profile%20views&color=0e75b6&style=flat" alt="xvxnoah" /> </p>
 
