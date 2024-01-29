@@ -4,11 +4,11 @@
 <h3 align="left">About me:</h3>
 Welcome to my GitHub profile!
 
-As a third year computer science student at the University of Barcelona, I am constantly learning and expanding my knowledge in the field. I am passionate about using technology to create innovative and efficient solutions for real-world problems.
+As a fourth year Computer Science student @ the University of Barcelona, I am constantly learning and expanding my knowledge in the field. I am passionate about using technology to create innovative and efficient solutions for real-world problems.
 
 On my profile, you'll find a collection of projects that showcase my skills and capabilities as a developer. From personal projects to group collaborations, I am committed to delivering high-quality code and user-friendly experiences.
 
-Whether you're a fellow student, a potential employer, or simply someone interested in my work, I hope you find something here that sparks your curiosity. If you have any questions or would like to collaborate on a project, don't hesitate to reach out! I am always open to new opportunities and experiences.
+Whether you're a fellow student, or simply someone interested in my work, I hope you find something here that sparks your curiosity. If you have any questions or would like to collaborate on a project, don't hesitate to reach out! I am always open to new opportunities and experiences.
 
 Thanks for stopping by. Let's build something cool together!
 
