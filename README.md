@@ -14,7 +14,6 @@ Thanks for stopping by. Let's build something cool together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xvxnoah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xvxnoah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/noahmarquezvara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noahmarquezvara" height="30" width="40" /></a>
 <a href="https://instagram.com/xvxnoah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xvxnoah" height="30" width="40" /></a>
 </p>
