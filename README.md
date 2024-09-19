@@ -1,10 +1,10 @@
 <h2 align="center"> 💻 Noah Márquez 💻 </h2>
-<h3 align="center">Computer Science Student @ Universitat de Barcelona</h3>
+<h3 align="center">MSc Data Science and AI @ Chalmers University of Technology</h3>
 
 <h3 align="left">About me:</h3>
 Welcome to my GitHub profile!
 
-As a fourth year Computer Science student @ the University of Barcelona, I am constantly learning and expanding my knowledge in the field. I am passionate about using technology to create innovative and efficient solutions for real-world problems.
+As a first year MSc Data Science and AI student @ Chalmers University of Technology, I am constantly learning and expanding my knowledge in the field. I am passionate about using technology to create innovative and efficient solutions for real-world problems.
 
 On my profile, you'll find a collection of projects that showcase my skills and capabilities as a developer. From personal projects to group collaborations, I am committed to delivering high-quality code and user-friendly experiences.
 
